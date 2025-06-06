@@ -12,7 +12,7 @@ def perform_operation(num1, num2, operation):
     case "divide":
       if num2 == 0:
         print("Not divisible by 0")
-      else:
+      elif:
         result = num1 / num2
         return result
   
